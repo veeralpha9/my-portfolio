@@ -1,0 +1,12 @@
+body{
+background-size:cover;
+    height:100vh;
+    /* background-image: url('https://res.cloudinary.com/dupoppjud/image/upload/v1729952899/1321760_wt3bn5.jpg'); */
+    background-color:#1f242d;
+}
+.logo-image {
+    margin-top: 0;
+    padding-top: 0;
+    height: 40px;
+    width:50px;
+}

@@ -1,0 +1,68 @@
+body{
+    background-size:cover;
+    height:100vh;
+    /* background-image: url('https://res.cloudinary.com/dupoppjud/image/upload/v1729952899/1321760_wt3bn5.jpg'); */
+    background-color:#1f242d;
+    /* overflow: hidden; */
+}
+.heading{
+    color:white;
+    text-align: center;
+    font-family:"roboto";
+}
+.logo-image {
+    margin-top: 0;
+    padding-top: 0;
+    height: 40px;
+    width:50px;
+}
+.text-form{
+    background-color:transparent;
+    border-style:solid;
+    border-color:#d60505;
+    border-width:2px;
+    /* color */
+
+}
+.text-form:hover{
+    background-color:#d60505;
+    display:block;
+}
+/* .form-section{
+    border-color:#7cf03d;
+    border-width:1px;
+    border-style:solid;
+    padding:20px;
+    border-radius:5px;
+} */
+.contact-btn-section{
+    display: inline-block;
+    padding:10px 30px;
+    background: #d60505;
+    border:2px solid #d60505;
+    border-radius: 40px;
+    box-shadow: 0 0 10px #d60505;
+    font-size:16px;
+    font-weight:600;
+    transition: .5s;
+}
+.contact-btn-section:hover{
+    background: transparent;
+    color:#d60505;
+    box-shadow: none;
+}
+.contact-me{
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    font-family:"roboto";
+}
+.contact-section{
+    background-color:transparent;
+    margin:20px;
+    text-align: center;
+    height:200px;
+}
+.section-contact-container{
+    padding-top:100px;
+}
